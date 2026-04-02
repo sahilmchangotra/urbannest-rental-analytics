@@ -2,7 +2,7 @@
 
 **SQL + Python Data Analysis Portfolio | Rental Market Intelligence**
 
-Sahil Changotra • The Hague, Netherlands • March 2026
+Sahil Changotra • March 2026
 
 ---
 
